@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_plugins:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_plugins_jar</output-path>
+    <root id="archive" name="java_plugins.jar">
+      <element id="module-output" name="java_plugins" />
+      <element id="extracted-dir" path="D:/Google/下载文件/dom4j-2.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

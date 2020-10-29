@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+<!--    <plugin>-->
+<!--        <name>A插件</name>-->
+<!--        <jar>E:\java_plugins\plugin_A.jar</jar>-->
+<!--        <class>Plugin_A</class>-->
+<!--    </plugin>-->
+    <plugin>
+        <name>B插件</name>
+        <jar>E:\java_plugins\jar_tool.jar</jar>
+        <class>jar_tool.Plugin_A</class>
+    </plugin>
+</plugins>
